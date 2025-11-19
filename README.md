@@ -17,4 +17,4 @@ This is a simple and engaging **web-based application** designed for Sinhala spe
   
 ## සිංහලෙන් විස්තරය  
 සිංහල භාෂාවෙන් බෙදීම් ගණිතය ඉගෙන ගන්නා ළමයින් සඳහා වන වෙබ් යෙදුමකි. කාලයේ අභියෝගය සමග ගණිත ගැටලු විසඳන්න! එක් එක් ගැටලුව විසඳීමට ඔබට සීමිත කාලයක් ලැබෙනු ඇත. ඔබේ මනසේ ගණන් කිරීමේ වේගය හා නිරවද්යතාවය වර්ධනය කර ගන්න.
-contact- senudaakmeemana@gmail.com
+## contact- senudaakmeemana@gmail.com
